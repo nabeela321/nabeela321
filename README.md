@@ -25,7 +25,7 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <
+  
 
   <a href="https://github.com/nabeela321/">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
@@ -34,7 +34,6 @@
 
 
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
